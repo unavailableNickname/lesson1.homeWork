@@ -1,5 +1,5 @@
 package ru.zelenkov;
-
+//
 public class Cat {
     private final float MAX_HEIGHT=1.5f;//m
     private final float MAX_LENGTH=3f;//km

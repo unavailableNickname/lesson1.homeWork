@@ -1,5 +1,5 @@
 package ru.zelenkov;
-
+//
 public class Man {
     private final float MAX_HEIGHT=0.7f;//m
     private final float MAX_LENGTH=1f;//km

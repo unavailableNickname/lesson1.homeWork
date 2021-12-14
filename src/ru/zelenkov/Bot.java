@@ -1,7 +1,7 @@
 package ru.zelenkov;
-
+//
 public class Bot {
-    private final float MAX_HEIGHT=1f;//m
+    private final float MAX_HEIGHT=1f;//me
     private final float MAX_LENGTH=3f;//km
 
 

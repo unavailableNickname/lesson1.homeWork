@@ -1,5 +1,5 @@
 package ru.zelenkov;
-
+//
 public class Wall {
     private float height;
 
